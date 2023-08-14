@@ -1,8 +1,8 @@
 # Best-GSG-hashing-problems-
-Nth Fibonacci Number
-Non-Repeating Element
-First Repeating Element
-Intersection of two arrays
-Key PairSubarray with 0 sum
-Winner of an election
-Pairs with Positive Negative values
+1. Nth Fibonacci Number
+2. Non-Repeating Element
+3. First Repeating Element
+4. Intersection of two arrays
+5. Key PairSubarray with 0 sum
+6. Winner of an election
+7. Pairs with Positive Negative values
