@@ -6,3 +6,5 @@
 5. Key PairSubarray with 0 sum
 6. Winner of an election
 7. Pairs with Positive Negative values
+8. Prime Number
+9. Non Repeating Numbers
