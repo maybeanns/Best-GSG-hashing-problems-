@@ -16,6 +16,13 @@ Hashing has four key components:
 3) Collisions
 4) Collision Resolution Techniques
 
+## Characteristics of Good Hash Functions
+• Minimize collision
+• Be easy and quick to compute
+• Distribute key values evenly in the hash table
+• Use all the information provided in the key
+• Have a high load factor for a given set of keys
+
 ## Best-GSG-hashing-problems-
 1. Nth Fibonacci Number
 2. Non-Repeating Element
